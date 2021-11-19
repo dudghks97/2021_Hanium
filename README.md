@@ -1,9 +1,12 @@
 # 딥러닝 모델을 이용한 졸음 감지 서비스
 딥러닝 모델을 이용한 졸음 감지 서비스와 함께 눈 건강 보호, 일정 관리 등의 부가 서비스를 제공하는 프로젝트
 
-## 1. 개발 환경
-- Window 10
-- Python 3.8
+## 1. 개발 환경 및 사용 라이브러리
+- **Window 10**
+- **Python 3.8**
+- **Framework** : Django
+- **DBMS** : MySQL
+- **Library** : Python Channels, Web Socket, OpenCV, imutils, dlib
 
 ## 2. 구성도
 ![<서비스구성도>](/00_img/서비스구성도.png)   
