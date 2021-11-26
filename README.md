@@ -3,7 +3,7 @@
 
 ## 1. 개발 환경 및 사용 라이브러리
 - **OS** : Window 10
-- **Language** : Python 3.8
+- **Language** : Python 3.8, HTML5, JavaScript, CSS
 - **Framework** : Django
 - **DBMS** : MySQL
 - **Library** : Python Channels, Web Socket, OpenCV, imutils, dlib
